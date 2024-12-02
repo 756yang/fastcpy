@@ -1,0 +1,6 @@
+[submodule "dylibreloc"]
+	path = dylibreloc
+	url = https://github.com/756yang/dylibreloc.git
+[submodule "benchmark"]
+	path = benchmark
+	url = https://github.com/google/benchmark.git
